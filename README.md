@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Patel Saniya Ismail 👋
 
-<!--
-**patel-saniya/patel-saniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. IT Graduate | Aspiring Frontend Developer
 
-Here are some ideas to get you started:
+I'm passionate about web development and creating clean, responsive, and user-friendly websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technical Skills
+
+- HTML5
+- CSS3
+- JavaScript
+
+🌱 Currently Learning
+
+- Frontend Development
+- Responsive Web Design
+- JavaScript
+
+🎯 Career Goals
+
+Looking for an entry-level opportunity where I can apply my technical knowledge, learn from experienced developers, and grow as a web developer.
+
+🤝 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/saniya-patel-b3111740a
+- Email: patelsaniyaismail0908@gmail.com
+
+---
+
+Learning. Building. Growing.
